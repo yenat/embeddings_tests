@@ -6,8 +6,8 @@
         101,
         20
       ],
-      "tensorPath": "https://raw.githubusercontent.com/Bitseat/embeddings_projector/master/cia_plot_tensor.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/Bitseat/embeddings_projector/master/cia_plot_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/yenat/embeddings_tests/master/cia_plot_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/yenat/embeddings_tests/master/cia_plot_metadata.tsv"
     }
   ]
 }
